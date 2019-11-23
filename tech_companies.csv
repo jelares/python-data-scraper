@@ -1,0 +1,394 @@
+Company,Price,change,Percent Change,Market Cap
+Apple Inc.,261.78,-0.23,-0.09%,1.183T
+Microsoft Corporation,149.59,+0.11,+0.07%,1.141T
+Taiwan Semiconductor Manufacturing Company Limited,52.79,-0.19,-0.36%,263.261B
+Intel Corporation,57.61,-0.61,-1.05%,250.604B
+"Cisco Systems, Inc.",44.85,+0.01,+0.02%,190.265B
+Oracle Corporation,56.39,+0.16,+0.28%,185.101B
+SAP SE,135.41,-0.02,-0.01%,166.497B
+Adobe Inc.,299.30,+0.50,+0.17%,144.885B
+"salesforce.com, inc.",162.81,-0.07,-0.04%,142.784B
+NVIDIA Corporation,210.89,+0.71,+0.34%,129.065B
+Accenture plc,196.66,-0.12,-0.06%,125.068B
+Broadcom Inc.,314.92,-0.33,-0.10%,124.92B
+International Business Machines Corporation,134.34,+0.50,+0.37%,118.976B
+ASML Holding N.V.,266.22,-0.81,-0.30%,112.932B
+Texas Instruments Incorporated,117.01,+0.91,+0.78%,109.378B
+QUALCOMM Incorporated,84.89,-0.22,-0.26%,96.931B
+"Fidelity National Information Services, Inc.",135.46,-1.01,-0.74%,83.254B
+Sony Corporation,61.20,-0.32,-0.52%,74.853B
+"VMware, Inc.",165.86,+0.16,+0.10%,67.776B
+Intuit Inc.,259.81,-11.34,-4.18%,67.57B
+"ServiceNow, Inc.",279.98,+0.86,+0.31%,52.804B
+"Applied Materials, Inc.",55.94,-0.50,-0.89%,51.675B
+"Micron Technology, Inc.",45.87,+0.32,+0.70%,50.78B
+"Uber Technologies, Inc.",29.56,+0.10,+0.34%,50.424B
+"Advanced Micro Devices, Inc.",39.15,-0.37,-0.94%,44.576B
+Infosys Limited,9.60,-0.27,-2.74%,40.922B
+"Analog Devices, Inc.",110.65,+1.87,+1.72%,40.875B
+"Workday, Inc.",172.84,+1.33,+0.78%,39.408B
+Dell Technologies Inc.,53.61,-0.10,-0.19%,38.848B
+Lam Research Corporation,261.98,-1.92,-0.73%,38.008B
+"Autodesk, Inc.",167.01,+1.96,+1.19%,36.673B
+Shopify Inc.,314.52,-1.55,-0.49%,36.481B
+Cognizant Technology Solutions Corporation,63.19,-0.21,-0.33%,34.601B
+NXP Semiconductors N.V.,115.22,+0.96,+0.84%,32.207B
+Atlassian Corporation Plc,125.98,+0.01,+0.01%,30.759B
+TE Connectivity Ltd.,90.59,-0.26,-0.29%,30.3B
+Amphenol Corporation,101.74,-0.04,-0.04%,30.165B
+Telefonaktiebolaget LM Ericsson (publ),9.02,+0.03,+0.33%,29.847B
+HP Inc.,19.94,+0.29,+1.48%,29.549B
+"Square, Inc.",67.75,+0.33,+0.49%,29.111B
+"Motorola Solutions, Inc.",165.85,+0.79,+0.48%,28.416B
+"FleetCor Technologies, Inc.",295.18,-0.09,-0.03%,25.616B
+KLA Corporation,158.49,-3.10,-1.92%,25.009B
+Fortive Corporation,928.50,+4.46,+0.48%,24.575B
+"Palo Alto Networks, Inc.",246.87,+0.13,+0.05%,23.944B
+Fortive Corporation,70.70,-0.23,-0.32%,23.741B
+"Xilinx, Inc.",90.61,+0.15,+0.17%,22.785B
+Hewlett Packard Enterprise Company,17.12,+0.04,+0.23%,22.352B
+Corning Incorporated,29.02,+0.47,+1.65%,22.32B
+"VeriSign, Inc.",188.44,-0.71,-0.38%,22.125B
+CGI Inc.,81.45,-0.37,-0.45%,21.966B
+Microchip Technology Incorporated,91.66,+0.66,+0.73%,21.905B
+Splunk Inc.,140.50,+13.66,+10.77%,21.685B
+STMicroelectronics N.V.,23.87,+0.18,+0.76%,21.33B
+"ANSYS, Inc.",246.38,0.00,0.00%,21.064B
+"Synopsys, Inc.",135.38,-3.39,-2.44%,20.267B
+CDW Corporation,136.44,-0.77,-0.56%,19.604B
+"Keysight Technologies, Inc.",103.66,-2.09,-1.98%,19.444B
+"Cadence Design Systems, Inc.",67.19,+0.01,+0.01%,18.854B
+Garmin Ltd.,97.20,-0.88,-0.90%,18.478B
+Check Point Software Technologies Ltd.,117.12,+0.85,+0.73%,18.198B
+"Fortinet, Inc.",103.81,+0.79,+0.77%,17.755B
+Marvell Technology Group Ltd.,25.99,-0.15,-0.57%,17.335B
+"Skyworks Solutions, Inc.",97.84,+1.43,+1.48%,16.669B
+Seagate Technology plc,59.28,-0.20,-0.34%,15.574B
+"Paycom Software, Inc.",263.31,+1.85,+0.71%,15.377B
+"Okta, Inc.",127.67,-0.21,-0.16%,15.288B
+NortonLifeLock Inc.,24.51,+0.07,+0.31%,15.279B
+"SS&C Technologies Holdings, Inc.",59.94,+0.04,+0.07%,15.147B
+"Maxim Integrated Products, Inc.",55.29,+0.36,+0.66%,14.962B
+"Arista Networks, Inc.",194.49,+2.49,+1.30%,14.859B
+"Citrix Systems, Inc.",113.75,+0.51,+0.45%,14.813B
+"RingCentral, Inc.",168.88,-0.87,-0.51%,14.541B
+Western Digital Corporation,48.46,+0.62,+1.30%,14.412B
+"Akamai Technologies, Inc.",87.97,+0.40,+0.46%,14.216B
+"Gartner, Inc.",157.00,-1.06,-0.67%,14.044B
+"NetApp, Inc.",61.23,+0.53,+0.87%,13.974B
+"Broadridge Financial Solutions, Inc.",121.20,-0.15,-0.12%,13.895B
+"Lyft, Inc.",46.46,-0.30,-0.64%,13.831B
+Zebra Technologies Corporation,243.57,+0.95,+0.39%,13.134B
+Teledyne Technologies Incorporated,349.76,+3.44,+0.99%,12.756B
+Ubiquiti Inc.,193.73,-0.59,-0.30%,12.564B
+"Leidos Holdings, Inc.",88.50,-1.55,-1.72%,12.528B
+"DocuSign, Inc.",71.12,+1.18,+1.69%,12.517B
+"CrowdStrike Holdings, Inc.",54.20,+0.43,+0.80%,12.246B
+"Datadog, Inc.",41.04,+1.01,+2.52%,12.141B
+GoDaddy Inc.,69.10,+0.35,+0.51%,11.904B
+"Qorvo, Inc.",101.72,+0.82,+0.81%,11.817B
+Open Text Corporation,43.03,-0.12,-0.28%,11.626B
+"Slack Technologies, Inc.",21.17,+0.17,+0.81%,11.518B
+"Jack Henry & Associates, Inc.",149.45,+0.59,+0.40%,11.498B
+StoneCo Ltd.,41.39,+7.04,+20.49%,11.48B
+"EPAM Systems, Inc.",205.15,-0.36,-0.18%,11.28B
+"Tyler Technologies, Inc.",287.11,+0.21,+0.07%,11.269B
+PagSeguro Digital Ltd.,32.77,+1.76,+5.68%,10.776B
+"Teradyne, Inc.",61.96,+0.18,+0.29%,10.383B
+Fair Isaac Corporation,355.69,+0.33,+0.09%,10.301B
+"Guidewire Software, Inc.",119.42,+0.84,+0.71%,9.861B
+Trimble Inc.,39.37,+0.03,+0.08%,9.808B
+NICE Ltd.,148.49,+0.83,+0.56%,9.206B
+Coupa Software Incorporated,148.62,-0.47,-0.32%,9.34B
+Amdocs Limited,68.45,+0.10,+0.15%,9.302B
+DXC Technology Company,35.84,+0.23,+0.65%,9.175B
+"Black Knight, Inc.",61.29,+0.03,+0.05%,9.167B
+Universal Display Corporation,192.90,-4.75,-2.40%,9.088B
+"Zendesk, Inc.",78.90,+0.09,+0.11%,8.851B
+"F5 Networks, Inc.",142.84,+0.24,+0.17%,8.684B
+Cypress Semiconductor Corporation,23.41,+0.04,+0.17%,8.676B
+PTC Inc.,75.14,+0.06,+0.08%,8.655B
+ON Semiconductor Corporation,20.81,+0.04,+0.19%,8.547B
+WEX Inc.,197.00,+0.39,+0.20%,8.528B
+"Juniper Networks, Inc.",25.46,+0.14,+0.55%,8.522B
+Cognex Corporation,49.58,-0.57,-1.14%,8.473B
+Xerox Holdings Corporation,39.06,+0.37,+0.96%,8.444B
+Ceridian HCM Holding Inc.,58.37,+0.80,+1.39%,8.404B
+"Euronet Worldwide, Inc.",154.59,+0.24,+0.16%,8.352B
+"Aspen Technology, Inc.",119.78,-0.51,-0.42%,8.17B
+Sensata Technologies Holding plc,51.16,+0.17,+0.33%,8.127B
+"Zayo Group Holdings, Inc.",34.30,-0.01,-0.03%,8.123B
+"Dropbox, Inc.",18.98,+0.46,+2.48%,7.883B
+Genpact Limited,39.72,-0.68,-1.68%,7.545B
+IPG Photonics Corporation,139.42,+0.89,+0.64%,7.399B
+Logitech International S.A.,42.61,-0.18,-0.42%,7.15B
+"FLIR Systems, Inc.",53.22,+0.12,+0.23%,7.14B
+"Anaplan, Inc.",53.24,+0.15,+0.28%,7.019B
+"Monolithic Power Systems, Inc.",157.98,-0.48,-0.30%,6.862B
+"Alteryx, Inc.",105.36,+2.12,+2.05%,6.856B
+"Dynatrace, Inc.",24.19,-0.96,-3.82%,6.786B
+InterXion Holding N.V.,85.35,+0.50,+0.59%,6.539B
+"Arrow Electronics, Inc.",79.30,+0.02,+0.03%,6.459B
+"CDK Global, Inc.",53.07,+0.04,+0.08%,6.443B
+"Mellanox Technologies, Ltd.",114.50,-0.45,-0.39%,6.345B
+Elastic N.V.,78.91,+1.38,+1.78%,6.269B
+"Entegris, Inc.",46.46,+0.53,+1.15%,6.266B
+"HubSpot, Inc.",144.66,+0.07,+0.05%,6.195B
+Wix.com Ltd.,120.90,+0.19,+0.16%,6.184B
+SYNNEX Corporation,120.89,+0.27,+0.22%,6.174B
+Pegasystems Inc.,77.58,0.00,0.00%,6.155B
+Paylocity Holding Corporation,114.67,-0.71,-0.62%,6.136B
+Sabre Corporation,21.94,-0.08,-0.36%,6.009B
+Flex Ltd.,11.78,+0.07,+0.60%,5.988B
+SolarWinds Corporation,19.02,-0.07,-0.37%,5.919B
+"Zscaler, Inc.",46.32,+0.90,+1.98%,5.904B
+Jabil Inc.,38.64,-0.12,-0.31%,5.899B
+"Avalara, Inc.",76.38,-1.56,-2.00%,5.877B
+CACI International Inc,231.30,-3.90,-1.66%,5.792B
+"First Solar, Inc.",54.38,+0.52,+0.97%,5.732B
+Ciena Corporation,36.96,+0.42,+1.15%,5.718B
+"Nutanix, Inc.",29.30,-0.39,-1.31%,5.63B
+"MKS Instruments, Inc.",102.58,-0.36,-0.35%,5.592B
+National Instruments Corporation,42.09,-0.56,-1.31%,5.516B
+Clarivate Analytics Plc,17.71,-0.29,-1.61%,5.42B
+"Cloudflare, Inc.",17.77,+0.41,+2.36%,5.334B
+Lumentum Holdings Inc.,68.19,+1.04,+1.55%,5.264B
+"RealPage, Inc.",54.39,+0.67,+1.25%,5.159B
+"Manhattan Associates, Inc.",79.36,+0.32,+0.40%,5.071B
+"Nuance Communications, Inc.",17.75,+0.23,+1.31%,5.07B
+"Cree, Inc.",45.89,+1.78,+4.04%,4.943B
+Science Applications International Corporation,82.48,-1.76,-2.09%,4.759B
+Micro Focus International plc,14.09,+0.11,+0.79%,4.688B
+"j2 Global, Inc.",95.22,-1.66,-1.71%,4.64B
+CyberArk Software Ltd.,121.70,+1.96,+1.64%,4.61B
+Tech Data Corporation,129.09,-0.33,-0.25%,4.576B
+"Viasat, Inc.",73.36,+0.35,+0.48%,4.501B
+Silicon Laboratories Inc.,103.53,+0.47,+0.46%,4.49B
+"Littelfuse, Inc.",179.65,+0.51,+0.28%,4.376B
+"Pure Storage, Inc.",16.86,-2.99,-15.06%,4.319B
+Perspecta Inc.,26.61,-0.19,-0.71%,4.305B
+NCR Corporation,33.29,+0.36,+1.09%,4.248B
+"ACI Worldwide, Inc.",36.63,+0.39,+1.08%,4.234B
+"Blackbaud, Inc.",83.88,-0.15,-0.18%,4.126B
+"Pivotal Software, Inc.",15.00,0.00,0.00%,4.128B
+"LG Display Co., Ltd.",5.65,-0.14,-2.42%,4.119B
+"Avnet, Inc.",40.40,-0.22,-0.55%,4.078B
+EchoStar Corporation,41.71,+1.03,+2.53%,4.07B
+Smartsheet Inc.,44.75,+0.67,+1.52%,4.069B
+"Cirrus Logic, Inc.",69.57,-0.07,-0.10%,4.021B
+"Medallia, Inc.",31.15,-1.19,-3.68%,3.975B
+"Q2 Holdings, Inc.",82.32,-0.41,-0.50%,3.964B
+"New Relic, Inc.",66.80,+0.20,+0.30%,3.927B
+"Switch, Inc.",15.94,+0.12,+0.76%,3.839B
+"LogMeIn, Inc.",76.90,-0.16,-0.21%,3.754B
+Globant S.A.,102.07,+2.08,+2.08%,3.736B
+"SolarEdge Technologies, Inc.",76.37,-0.61,-0.79%,3.712B
+"Cornerstone OnDemand, Inc.",60.48,-0.05,-0.08%,3.672B
+"FireEye, Inc.",16.93,-0.06,-0.32%,3.671B
+Cabot Microelectronics Corporation,128.42,+1.47,+1.16%,3.729B
+"Coherent, Inc.",150.86,+1.11,+0.74%,3.618B
+The Descartes Systems Group Inc,42.23,+0.02,+0.05%,3.552B
+"Envestnet, Inc.",65.33,+0.11,+0.17%,3.428B
+Viavi Solutions Inc.,14.92,-0.24,-1.58%,3.428B
+"Qualys, Inc.",86.25,-1.44,-1.64%,3.343B
+"LiveRamp Holdings, Inc.",49.23,+0.59,+1.21%,3.333B
+Semtech Corporation,48.92,+0.26,+0.53%,3.255B
+"CoreLogic, Inc.",40.50,+0.31,+0.77%,3.22B
+"Itron, Inc.",79.66,+0.41,+0.52%,3.152B
+Verint Systems Inc.,47.18,-0.29,-0.61%,3.15B
+Inphi Corporation,68.58,-0.54,-0.78%,3.132B
+"Brooks Automation, Inc.",43.31,-0.31,-0.70%,3.131B
+ManTech International Corporation,77.36,-0.65,-0.83%,3.102B
+BlackBerry Limited,5.60,+0.26,+4.87%,3.076B
+Novanta Inc.,86.25,+1.03,+1.21%,3.025B
+Teradata Corporation,26.70,+0.80,+3.09%,3.004B
+"BlackLine, Inc.",52.99,+0.29,+0.55%,2.948B
+"Amkor Technology, Inc.",12.13,-0.18,-1.50%,2.909B
+"Vishay Intertechnology, Inc.",19.06,-0.15,-0.78%,2.753B
+"Acacia Communications, Inc.",66.64,-0.06,-0.09%,2.75B
+Mimecast Limited,43.68,-0.23,-0.52%,2.708B
+"Tenable Holdings, Inc.",27.54,+0.04,+0.15%,2.704B
+"Power Integrations, Inc.",90.47,+0.69,+0.77%,2.662B
+"Cloudera, Inc.",9.44,+0.29,+3.17%,2.64B
+"CommScope Holding Company, Inc.",13.94,+0.23,+1.68%,2.708B
+"PROS Holdings, Inc.",57.77,+0.50,+0.87%,2.561B
+Endava plc,45.97,+0.56,+1.23%,2.527B
+"Pluralsight, Inc.",17.84,+0.06,+0.34%,2.509B
+AVX Corporation,14.71,-0.08,-0.54%,2.487B
+Lattice Semiconductor Corporation,18.53,-0.19,-1.01%,2.475B
+II-VI Incorporated,27.14,-0.33,-1.20%,2.465B
+"LivePerson, Inc.",37.04,-0.27,-0.72%,2.452B
+Rogers Corporation,129.27,+0.31,+0.24%,2.401B
+"Box, Inc.",15.99,+0.13,+0.82%,2.363B
+Tower Semiconductor Ltd.,21.94,-0.08,-0.36%,2.353B
+"Varonis Systems, Inc.",76.84,+0.78,+1.03%,2.342B
+"ExlService Holdings, Inc.",68.62,-0.60,-0.87%,2.34B
+"Advanced Energy Industries, Inc.",60.65,-0.33,-0.54%,2.325B
+Altair Engineering Inc.,32.19,+0.17,+0.53%,2.31B
+SVMK Inc.,17.03,-0.01,-0.06%,2.293B
+Diodes Incorporated,44.90,-0.03,-0.07%,2.292B
+"Commvault Systems, Inc.",49.92,+0.43,+0.87%,2.282B
+"Insight Enterprises, Inc.",64.16,-1.46,-2.22%,2.262B
+"EVERTEC, Inc.",31.25,-0.63,-1.98%,2.248B
+ESCO Technologies Inc.,85.76,+0.98,+1.16%,2.228B
+"SailPoint Technologies Holdings, Inc.",24.86,+0.44,+1.80%,2.218B
+Plexus Corp.,75.57,-1.28,-1.67%,2.205B
+Sanmina Corporation,31.50,-0.37,-1.16%,2.204B
+Fabrinet,59.60,-0.39,-0.65%,2.205B
+"Fastly, Inc.",23.30,+1.22,+5.53%,2.182B
+"Bottomline Technologies (de), Inc.",48.80,-0.07,-0.14%,2.146B
+"TTEC Holdings, Inc.",45.02,-0.14,-0.31%,2.093B
+"PagerDuty, Inc.",26.88,+0.52,+1.97%,2.051B
+"Alarm.com Holdings, Inc.",42.14,+0.26,+0.62%,2.047B
+"8x8, Inc.",20.18,+0.15,+0.75%,2.023B
+"Instructure, Inc.",52.98,+0.08,+0.15%,1.991B
+Knowles Corporation,21.50,+0.30,+1.42%,1.968B
+Workiva Inc.,42.25,-0.45,-1.05%,1.963B
+"SPS Commerce, Inc.",56.03,-0.07,-0.12%,1.952B
+Synaptics Incorporated,56.84,-0.34,-0.59%,1.902B
+"Yext, Inc.",16.58,+0.23,+1.41%,1.869B
+"CSG Systems International, Inc.",56.34,-1.06,-1.86%,1.856B
+Progress Software Corporation,41.01,-0.84,-2.01%,1.837B
+"NetScout Systems, Inc.",24.51,+0.47,+1.96%,1.834B
+"Eventbrite, Inc.",21.58,+0.20,+0.94%,1.821B
+"Ambarella, Inc.",54.72,+0.27,+0.50%,1.809B
+"OSI Systems, Inc.",97.85,+0.08,+0.08%,1.796B
+"Fitbit, Inc.",6.86,+0.18,+2.69%,1.785B
+"Zuora, Inc.",15.45,-0.11,-0.71%,1.737B
+"FormFactor, Inc.",22.52,+0.30,+1.35%,1.707B
+Ping Identity Holding Corp.,20.21,-0.27,-1.32%,1.609B
+"Sonos, Inc.",15.13,+0.91,+6.40%,1.609B
+Vicor Corporation,39.80,+0.95,+2.45%,1.608B
+Onto Innovation Inc.,32.70,-1.10,-3.25%,1.637B
+"MACOM Technology Solutions Holdings, Inc.",24.22,-0.15,-0.60%,1.599B
+Sunrun Inc.,13.49,+0.07,+0.52%,1.593B
+Silicon Motion Technology Corporation,43.17,-0.25,-0.58%,1.561B
+MicroStrategy Incorporated,151.60,+2.10,+1.40%,1.556B
+KEMET Corporation,26.81,+0.23,+0.87%,1.557B
+Stamps.com Inc.,90.29,+1.09,+1.22%,1.542B
+"Kulicke and Soffa Industries, Inc.",23.90,+0.93,+4.05%,1.506B
+NIC Inc.,22.25,-0.07,-0.29%,1.49B
+Rambus Inc.,13.18,-0.02,-0.15%,1.469B
+Cision Ltd.,9.93,-0.25,-2.46%,1.474B
+"Sykes Enterprises, Incorporated",34.56,-0.36,-1.03%,1.432B
+"MaxLinear, Inc.",19.92,+0.15,+0.76%,1.426B
+"Presidio, Inc.",16.57,0.00,0.00%,1.385B
+"Perficient, Inc.",41.72,+0.50,+1.21%,1.361B
+"TTM Technologies, Inc.",12.89,-0.11,-0.85%,1.36B
+Conduent Incorporated,6.37,+0.22,+3.58%,1.347B
+Linx S.A.,7.21,+0.04,+0.56%,1.334B
+"GreenSky, Inc.",7.43,+0.19,+2.62%,1.337B
+Avaya Holdings Corp.,12.02,+0.48,+4.16%,1.335B
+"Methode Electronics, Inc.",35.87,0.00,0.00%,1.33B
+Virtusa Corporation,44.17,+0.15,+0.35%,1.318B
+iRobot Corporation,46.51,+0.49,+1.06%,1.315B
+"PC Connection, Inc.",47.93,-1.48,-3.00%,1.261B
+Bandwidth Inc.,52.83,+0.36,+0.69%,1.241B
+Opera Limited,10.14,+0.43,+4.43%,1.194B
+"Benchmark Electronics, Inc.",32.57,+0.01,+0.03%,1.202B
+Infinera Corporation,6.41,-0.10,-1.54%,1.159B
+Formula Systems (1985) Ltd.,72.20,+0.50,+0.70%,1.087B
+MTS Systems Corporation,58.17,+0.07,+0.12%,1.125B
+ePlus inc.,82.70,-0.62,-0.74%,1.118B
+Radware Ltd.,23.66,+0.29,+1.24%,1.111B
+Loral Space & Communications Inc.,33.86,-0.02,-0.06%,1.047B
+3D Systems Corporation,8.75,+0.13,+1.51%,1.036B
+SunPower Corporation,7.20,+0.05,+0.70%,1.027B
+Stratasys Ltd.,18.69,+0.14,+0.75%,1.017B
+"Mesa Laboratories, Inc.",231.30,+5.10,+2.25%,1.01B
+"Plantronics, Inc.",24.90,+0.54,+2.22%,993.903M
+"Ebix, Inc.",32.53,+0.84,+2.65%,992.022M
+"Model N, Inc.",29.54,-0.70,-2.31%,974.675M
+Celestica Inc.,7.57,-0.03,-0.39%,973.388M
+Nova Measuring Instruments Ltd.,34.12,-0.32,-0.93%,952.716M
+Xperi Corporation,19.05,-0.52,-2.66%,943.781M
+QAD Inc.,48.00,-0.12,-0.25%,937.109M
+TiVo Corporation,7.37,+0.26,+3.66%,933.359M
+QAD Inc.,35.90,0.00,0.00%,931.695M
+Materialise NV,17.41,+0.13,+0.75%,920.829M
+SecureWorks Corp.,11.23,-0.03,-0.27%,911.903M
+"ScanSource, Inc.",35.17,-0.17,-0.48%,888.609M
+Canadian Solar Inc.,14.92,+0.14,+0.95%,884.17M
+CTS Corporation,26.89,+0.39,+1.47%,876.665M
+Comtech Telecommunications Corp.,36.24,+0.25,+0.69%,883.129M
+"Vivint Solar, Inc.",6.97,+0.50,+7.73%,850.953M
+Sunnova Energy International Inc.,10.13,-0.26,-2.50%,850.726M
+"FARO Technologies, Inc.",48.83,+0.31,+0.64%,849.842M
+"21Vianet Group, Inc.",7.51,-0.01,-0.13%,844.071M
+ChipMOS TECHNOLOGIES INC.,22.76,-0.34,-1.47%,847.453M
+"Ultra Clean Holdings, Inc.",20.78,-0.18,-0.88%,827.165M
+"Extreme Networks, Inc.",6.65,+0.13,+1.99%,808.421M
+Universal Electronics Inc.,55.53,-0.56,-1.00%,773.433M
+"Photronics, Inc.",11.35,-0.11,-0.92%,763.02M
+"JinkoSolar Holding Co., Ltd.",17.29,-0.17,-0.97%,758.435M
+"NETGEAR, Inc.",24.94,-0.61,-2.39%,751.879M
+"SMART Global Holdings, Inc.",31.20,+0.15,+0.48%,740.897M
+"nLIGHT, Inc.",19.49,-0.47,-2.35%,735.925M
+Harmonic Inc.,8.00,+0.01,+0.13%,722.745M
+"Impinj, Inc.",32.53,-0.30,-0.91%,719.834M
+"Cohu, Inc.",17.40,+0.18,+1.05%,718.035M
+"i3 Verticals, Inc.",26.13,+3.83,+17.17%,714.606M
+Unisys Corporation,11.12,+0.34,+3.15%,693.829M
+Maxar Technologies Inc.,11.33,+0.33,+3.00%,676.907M
+"Vocera Communications, Inc.",21.41,+0.13,+0.61%,674.111M
+"Axcelis Technologies, Inc.",20.72,-0.34,-1.61%,671.765M
+AudioCodes Ltd.,22.76,-0.02,-0.09%,663.54M
+"Ichor Holdings, Ltd.",29.50,-1.22,-3.97%,663.597M
+Veeco Instruments Inc.,13.51,-0.30,-2.17%,660.68M
+Huami Corporation,10.07,-0.36,-3.45%,617.203M
+"Viomi Technology Co., Ltd",8.90,-1.03,-10.37%,616.474M
+Tufin Software Technologies Ltd.,17.46,-0.02,-0.11%,598.798M
+"Agilysys, Inc.",25.14,-0.13,-0.51%,594.775M
+"Diebold Nixdorf, Incorporated",7.39,-0.20,-2.64%,567.505M
+"CEVA, Inc.",25.75,+0.26,+1.02%,566.317M
+Cerence Inc.,15.04,+0.24,+1.62%,547.327M
+Digi International Inc.,18.42,+0.27,+1.49%,518.415M
+"A10 Networks, Inc.",6.59,-0.12,-1.79%,506.234M
+Daqo New Energy Corp.,37.82,+0.08,+0.21%,502.295M
+Magic Software Enterprises Ltd.,10.27,+0.10,+0.98%,507.474M
+"American Software, Inc.",15.93,-0.49,-2.98%,499.67M
+"PDF Solutions, Inc.",15.20,-0.08,-0.52%,491.723M
+Ituran Location and Control Ltd.,23.32,-0.43,-1.81%,490.678M
+PAR Technology Corporation,30.00,-0.38,-1.25%,490.362M
+Gilat Satellite Networks Ltd.,8.36,+0.06,+0.72%,463.489M
+"The Hackett Group, Inc.",15.26,-0.02,-0.13%,456.222M
+"Vishay Precision Group, Inc.",33.16,-0.12,-0.36%,448.419M
+Weidai Ltd.,6.10,-0.30,-4.69%,429.728M
+"ADTRAN, Inc.",8.80,+0.15,+1.73%,420.871M
+"Calix, Inc.",7.58,+0.03,+0.40%,420.61M
+MagnaChip Semiconductor Corporation,11.90,+0.26,+2.23%,409.606M
+Zix Corporation,7.34,+0.03,+0.41%,409.148M
+Inseego Corp.,5.05,+0.08,+1.61%,404.159M
+Digimarc Corporation,31.97,-0.34,-1.05%,397.323M
+NeoPhotonics Corporation,8.11,-0.08,-0.98%,391.235M
+"Telaria, Inc.",8.22,+0.10,+1.23%,382.82M
+CooTek (Cayman) Inc.,5.65,+0.15,+2.73%,359.372M
+Rosetta Stone Inc.,14.70,+0.15,+1.03%,353.678M
+CalAmp Corp.,10.40,+0.11,+1.07%,354.851M
+Brightcove Inc.,8.96,-0.03,-0.33%,347.655M
+"Sierra Wireless, Inc.",8.91,+0.30,+3.48%,323.09M
+"DSP Group, Inc.",13.92,-0.09,-0.64%,320.217M
+"Daktronics, Inc.",6.73,+0.02,+0.30%,302.522M
+Allot Ltd.,8.53,-0.05,-0.58%,293.023M
+Alpha and Omega Semiconductor Limited,11.58,+0.23,+2.03%,284.324M
+MiX Telematics Limited,12.12,+0.13,+1.08%,267.147M
+Hamilton Beach Brands Holding Company,19.66,+0.36,+1.87%,265.74M
+"Telenav, Inc.",5.44,+0.07,+1.30%,264.2M
+ChannelAdvisor Corporation,9.00,0.00,0.00%,252.529M
+Silicom Ltd.,32.55,+0.82,+2.58%,246.083M
+Immersion Corporation,7.07,-0.01,-0.14%,224.796M
+"KVH Industries, Inc.",11.00,+0.04,+0.36%,199.063M
+Bel Fuse Inc.,15.85,-0.37,-2.28%,188.938M
+Bel Fuse Inc.,12.85,-0.70,-5.17%,183.361M
+"GSI Technology, Inc.",7.30,-0.02,-0.34%,168.347M
+"PCTEL, Inc.",8.55,-0.05,-0.58%,158.879M
+LSI Industries Inc.,5.32,-0.04,-0.75%,138.883M
+TESSCO Technologies Incorporated,11.47,-0.27,-2.30%,98.043M
+"Computer Task Group, Incorporated",5.67,+0.09,+1.61%,83.351M
+"Amtech Systems, Inc.",5.75,+0.04,+0.70%,82.036M
+"Aviat Networks, Inc.",14.00,+0.04,+0.29%,75.976M
+"Richardson Electronics, Ltd.",5.54,-0.06,-1.07%,61.103M
+"Mitcham Industries, Inc.",23.99,-0.41,-1.68%,45.221M
+SITIME CORP,18.05,-0.60,-3.22%,N/A
+CANAAN INC.,8.98,-0.01,-0.11%,N/A
+Broadcom Inc.,"1,154.06",-1.81,-0.16%,N/A
