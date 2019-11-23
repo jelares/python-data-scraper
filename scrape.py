@@ -6,7 +6,7 @@ stock_information = {}
 csv_file = open('tech_companies.csv', 'w')
 
 csv_writer = csv.writer(csv_file)
-csv_writer.writerow(['Company', 'Price', 'change', 'Percent Change', 'Market Cap'])
+csv_writer.writerow(['Symbol', 'Company', 'Price', 'change', 'Percent Change', 'Market Cap'])
 
 offset = 0
 url = "https://finance.yahoo.com/screener/predefined/ms_technology?count=100&offset=0"
@@ -34,8 +34,8 @@ while (stocks != []):
         except:
             market_cap = "N/A"
 
-        print(name, price, change, percent_change, market_cap)
-        csv_writer.writerow([name, price, change, percent_change, market_cap])
+        print(symbol, name, price, change, percent_change, market_cap)
+        csv_writer.writerow([symbol, name, price, change, percent_change, market_cap])
 
     # Getting next 100 results
     offset += 100
