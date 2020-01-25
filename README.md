@@ -4,4 +4,4 @@ and puts them into a CSV as well as loading them into memory.
 
 To run the scraper run:
     
-    python scrapy.py 
+    python scrape.py 
